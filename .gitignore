@@ -1,0 +1,13 @@
+.tags
+.tags_sorted_by_file
+tags
+arch/linux/config/*
+arch/linux/dll/*
+arch/linux/obj/*
+arch/linux/target/*
+gagent/cloud/src/obj/*
+gagent/core/src/obj/*
+gagent/lan/src/obj/*
+gagent/local/src/obj/*
+gagent/main/src/obj/*
+set.sh

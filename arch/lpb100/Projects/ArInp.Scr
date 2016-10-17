@@ -1,0 +1,17 @@
+--create .\output\lib\GAgent_LPB100_LIBV4.lib
+.\output\lib\wifi_mode.o
+.\output\lib\xpgmain.o
+.\output\lib\mqttlib.o
+.\output\lib\mqttstm.o
+.\output\lib\mqttxpg.o
+.\output\lib\lan.o
+.\output\lib\socket.o
+.\output\lib\adapter_hf.o
+.\output\lib\base64.o
+.\output\lib\user_misc.o
+.\output\lib\utilcoding.o
+.\output\lib\mcu_common.o
+.\output\lib\mcu_v3.o
+.\output\lib\mcu_v4.o
+.\output\lib\http.o
+.\output\lib\socket_jd.o
